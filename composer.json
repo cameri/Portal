@@ -8,7 +8,7 @@
         "classmap": ["include/classes/"]
     },
     "require": {
-        "twig/twig": "1.*",
+        "twig/twig": "3.*",
         "flourish/flourish": "0.9.*@dev"
     }
 }
